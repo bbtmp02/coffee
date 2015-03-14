@@ -1,0 +1,5 @@
+# Do not checking node_modules, install them using npm
+node_modules/
+
+# Werklijstje
+todo.txt
